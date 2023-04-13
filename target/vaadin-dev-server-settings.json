@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "/home/dev/IdeaProjects/my-app/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/dev/IdeaProjects/my-app/./frontend/generated/jar-resources",
+  "staticOutput": "/home/dev/IdeaProjects/my-app/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/home/dev/IdeaProjects/my-app/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/home/dev/IdeaProjects/my-app/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/home/dev/IdeaProjects/my-app/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "/home/dev/IdeaProjects/my-app/src/main/dev-bundle/config",
+  "jarResourcesFolder": "/home/dev/IdeaProjects/my-app/./frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "myapp",
+  "clientServiceWorkerSource": "/home/dev/IdeaProjects/my-app/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
